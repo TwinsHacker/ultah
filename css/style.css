@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower");
 html, body, .container {
   height: 100%;
-  font-family: 'Kaushan Script','Sail', cursive;
+  font-family: 'Indie Flower','Sail', cursive;
 }
 
 body {
